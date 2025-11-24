@@ -2,7 +2,9 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+
+In the first assignemnt, I used data from rehabilitation centers in various cities to explore hummingbird deaths and explore possible risks associated with death. My code groups variables such as reason for admission, season, whether first aid was performed, rehabilitation center, and time till bird was brought to the facility and comapred those individual variables to the outcome of death to find associations with highest differences in risk. In my cod eI use features such as gg_plot and facet_grid to create the best visuals for each variable. This code outputs multiple wonderful bar charts displaying proportion of hummingbird deaths by variable. It also groups and charts in a histogram the frequency of hummingbird admissions seperately by month and by year to explore trends.
+
 
 ## Project Organization
 ------------
